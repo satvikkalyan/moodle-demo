@@ -1,0 +1,15 @@
+body {
+    /* Page background */
+    --background-color: white;
+    --ion-background-color-rgb: 255, 255, 255;
+
+    /* Main text color */
+    --text-color: black;
+    --ion-text-color-rgb: 0, 0, 0;
+
+    /* Text used in categories and secondary content */
+    --subdued-text-color: gray;
+
+    /* Links text */
+    --core-link-color: blue;
+}
